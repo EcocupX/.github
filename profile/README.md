@@ -1,6 +1,5 @@
 # Ecocup ♻️  
-**Refill. Reward. Repeat.**  
-_QR-powered reuse for cafés, chains, and communities. Track every refill, reward every habit, reduce single-use plastic at scale._
+**Refill. Reward. Repeat.**: QR-powered reuse for cafés, chains, and communities. Track every refill, reward every habit, reduce single-use plastic at scale.
 
 ## 🌍 Overview
 Ecocup is a cross-platform mobile and web platform designed to cut single-use plastic by turning refills into a measurable, rewarded behavior. Plastic that’s properly captured poses minimal risk; plastic that leaks into ecosystems harms wildlife and habitats. The world is mobilizing—policy incentives, public campaigns, and new technology—to reduce plastic waste. Ecocup adds the missing link: **proof-of-reuse** with real-time incentives and impact analytics.
