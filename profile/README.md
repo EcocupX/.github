@@ -5,30 +5,20 @@
 Ecocup is a cross-platform mobile and web platform designed to cut single-use plastic by turning refills into a measurable, rewarded behavior. Plastic that’s properly captured poses minimal risk; plastic that leaks into ecosystems harms wildlife and habitats. The world is mobilizing—policy incentives, public campaigns, and new technology—to reduce plastic waste. Ecocup adds the missing link: **proof-of-reuse** with real-time incentives and impact analytics.
 
 ## 💡 How It Works
-1. **Discover**: Users find **Ecocup-compatible** venues on the in-app map.  
-2. **Scan**: Each business displays a unique Ecocup QR. Users scan when refilling a reusable cup.  
-3. **Reward**: Stores configure perks (discounts, gifts, loyalty points). Users earn on every verified refill.  
+1. **Discover**: Users find **Ecocup-compatible** venues on the in-app map.
+2. **Scan**: Each business displays a unique Ecocup QR. Users scan when refilling a reusable cup.
+3. **Reward**: Stores configure perks (discounts, gifts, loyalty points). Users earn on every verified refill.
 4. **Measure**: Dashboards show impact (e.g., plastic avoided, water and energy saved), supporting ESG and incentive programs.
 
 ## 🏪 For Businesses
-- **Reduce costs & waste**: Fewer disposables, leaner operations.  
-- **Retention out of the box**: Loyalty tuned to refills, not receipts.  
-- **ESG & compliance**: Impact metrics for sustainability reports; supports tax-incentive narratives.  
-- **Frictionless rollout**: QR codes, role-based dashboards, multi-site support.  
+- **Reduce costs & waste**: Fewer disposables, leaner operations.
+- **Retention out of the box**: Loyalty tuned to refills, not receipts.
+- **ESG & compliance**: Impact metrics for sustainability reports; supports tax-incentive narratives.
+- **Frictionless rollout**: QR codes, role-based dashboards, multi-site support.
 - **Marketing lift**: Verified impact you can share with customers and partners.
 
-## 🧩 Key Components (High-Level)
-- **User Apps**: iOS, Android, and Web PWA.  
-- **Merchant Console**: Configure rewards, manage locations, view analytics.  
-- **QR & Verification Service**: Secure, tamper-resistant proof-of-reuse. 
-- **Rewards Engine**: Rules, tiers, and expirations.
-- **Analytics & Reporting**: Impact KPIs, ESG exports, and audit trails.
-
 ## 📊 Impact Metrics (Examples)
-- **Plastic items avoided**
-- **Estimated water/energy saved**
-- **Refill frequency & cohort retention**
-- **Location-level performance vs. targets**
+Impact is calculated from verified refill events using conservative, published assumptions about avoided plastics and resource savings. Methodology notes, formulas, and data sources are documented in the analytics module so that partners, auditors, and regulators can validate results. Where local standards exist, Ecocup aligns with them and clearly flags any differences.
 
 Methodologies are transparent and conservative; all formulas are documented in the analytics module.
 
@@ -38,7 +28,7 @@ Methodologies are transparent and conservative; all formulas are documented in t
 - Sustainability: reporting exports for ESG frameworks.
 
 ## 🤝 Get Involved
-- **Businesses & Partners**: Interested in pilots or regional rollouts? Open a discussion in **GitHub Discussions** or contact the maintainers.  
+- **Businesses & Partners**: Interested in pilots or regional rollouts? Open a discussion in **GitHub Discussions** or contact the maintainers.
 - **Developers**: Check issues labeled `good first issue` and `help wanted`. Propose integrations via RFCs.
 - **Researchers & NGOs**: Collaborate on methodology and public datasets.
 
