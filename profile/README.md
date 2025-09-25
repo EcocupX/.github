@@ -17,19 +17,13 @@ Ecocup is a cross-platform mobile and web platform designed to cut single-use pl
 - **Frictionless rollout**: QR codes, role-based dashboards, multi-site support.
 - **Marketing lift**: Verified impact you can share with customers and partners.
 
-## 📊 Impact Metrics (Examples)
+## 📊 Impact Metrics
 Impact is calculated from verified refill events using conservative, published assumptions about avoided plastics and resource savings. Methodology notes, formulas, and data sources are documented in the analytics module so that partners, auditors, and regulators can validate results. Where local standards exist, Ecocup aligns with them and clearly flags any differences.
 
 Methodologies are transparent and conservative; all formulas are documented in the analytics module.
 
-## 🔗 Integrations
-- POS & Loyalty: common retail systems.
-- Marketing: email & CRM webhooks.
-- Sustainability: reporting exports for ESG frameworks.
-
 ## 🤝 Get Involved
 - **Businesses & Partners**: Interested in pilots or regional rollouts? Open a discussion in **GitHub Discussions** or contact the maintainers.
-- **Developers**: Check issues labeled `good first issue` and `help wanted`. Propose integrations via RFCs.
 - **Researchers & NGOs**: Collaborate on methodology and public datasets.
 
 ## 🔐 Security & Privacy
